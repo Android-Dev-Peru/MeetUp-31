@@ -2,7 +2,7 @@
 
 Cómo implementar Navigation Component | Cómo implementar Coroutines en un patrón de Presentación (MVP)
 
-https://www.meetup.com/es-ES/Android-Dev-Peru/events/270692829/
+https://www.meetup.com/Android-Dev-Peru/events/271870471/
 
 ## Charlas :
 
